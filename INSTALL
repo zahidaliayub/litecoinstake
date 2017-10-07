@@ -1,0 +1,9 @@
+Building LitecoinStake
+
+See doc/readme-qt.rst for instructions on building LitecoinStake QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of LitecoinStake.
+
+See doc/build-*.txt for instructions on building litecoinstaked,
+the intended-for-services, no-graphical-interface, reference
+implementation of LitecoinStake.
